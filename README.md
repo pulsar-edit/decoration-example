@@ -1,3 +1,5 @@
+### This Repo is Archived under Pulsar-Edit due to being an example repo, containing code that was never used in the core editor or pacakges.
+
 # Decoration Example
 
 This will show you all the capabilities of Atom's Decoration API. When enabled, this package adds a panel of buttons that exercise the API.
